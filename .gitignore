@@ -1,0 +1,23 @@
+# Environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# Temp test files
+result.jpg
+test_unknown.jpg
+build_*.py
+
+# OS generated
+.DS_Store
+Thumbs.db
